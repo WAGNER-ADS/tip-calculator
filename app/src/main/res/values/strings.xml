@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TipCalculatorN</string>
+    <string name="txt_Amount">Amount</string>
+    <string name="txt_custompct">Custom %</string>
+    <string name="txt_15pct">15%</string>
+    <string name="txt_outrapct">18%</string>
+    <string name="txt_tip">Tip</string>
+    <string name="txt_total">Total</string>
+    <string name="txt_zeroreais">R$ 0,00</string>
+</resources>
